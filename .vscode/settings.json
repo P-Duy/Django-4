@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "editor.defaultFoldingRangeProvider": "ms-python.black-formatter",
+    "editor.defaultFormatter": "ms-python.black-formatter"
+}
