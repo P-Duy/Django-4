@@ -91,7 +91,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": "django4",
         "USER": "django4",
-        "PASSWORD": "django4",
+        "PASSWORD": "123456",
     }
 }
 
